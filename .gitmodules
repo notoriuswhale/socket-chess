@@ -1,0 +1,6 @@
+[submodule "socket-chess-frontend"]
+	path = socket-chess-frontend
+	url = https://github.com/notoriuswhale/socket-chess-frontend.git
+[submodule "socket-chess-server"]
+	path = socket-chess-server
+	url = https://github.com/notoriuswhale/socket-chess-server.git
