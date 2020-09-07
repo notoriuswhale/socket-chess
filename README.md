@@ -1,4 +1,6 @@
 # socket-chess
 
+## [Demo](https://notoriuswhale-socket-chess.herokuapp.com/)
+
 ## About
-Chess on react with socket.io & express
+Chess game with react & socket.io + express
